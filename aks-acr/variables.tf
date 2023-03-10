@@ -27,3 +27,4 @@ variable "acr_name" {
   type        = string
   description = "ACR name"
 }
+#commend added
