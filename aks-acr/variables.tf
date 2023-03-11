@@ -28,3 +28,4 @@ variable "acr_name" {
   description = "ACR name"
 }
 #commend added
+#comment two added
