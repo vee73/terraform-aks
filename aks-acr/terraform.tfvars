@@ -4,7 +4,3 @@ cluster_name        = "mvc-aks4"
 kubernetes_version  = "1.24.9"
 system_node_count   = 2
 acr_name            = "tfmvcaksacr4"
-azure_subscription_id = "d26e7644-d1b3-4114-9b7c-88528234a238"
-tenant_id = "105b2061-b669-4b31-92ac-24d304d195dc"
-client_id = "12099e70-1e5a-48ca-8e9d-5392b01f61af"
-client_secret = "9j68Q~WykxqHMxJ-97RlXZMRnKUM9IOIVoVEWbLN"
