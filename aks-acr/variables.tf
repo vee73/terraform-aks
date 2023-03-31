@@ -29,3 +29,19 @@ variable "acr_name" {
 }
 #commend added
 #comment two added
+variable "azure_subscription_id" {
+  type        = string
+  description = "Subscription ID"
+}
+variable "azure_tenant_id" {
+  type        = string
+  description = "teanent ID"
+}
+variable "azure_client_id" {
+  type        = string
+  description = "cleint ID"
+}
+variable "azure_client_secret" {
+  type        = string
+  description = "cleintscret ID"
+}
